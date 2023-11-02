@@ -6,5 +6,5 @@ I have used Linear Regression, Non Linear Regression, Binanry Classification and
 # Installation
 Clone this repo from following url
 ```sh
-https://github.com/babarmalik6444/house-price-prediction.git
+https://github.com/OmerChaudhry/house-price-prediction.git
 ```
